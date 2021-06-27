@@ -7,7 +7,7 @@
 <br/><br/>
 <br /><b>Step 1</b> Install Unity 2020.3.X or higher
 <br/><br/>
-<b>Step 2</b> Clone this repository: https://github.com/ferryliekens/image_recognition.git
+<b>Step 2</b> Clone this repository: https://github.com/ferryliekens/cozmo-simulation.git
 <br/><br/>
 
 ## Running the model steps
