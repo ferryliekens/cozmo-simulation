@@ -1,0 +1,63 @@
+{
+    "HoldBallBehaviour": {
+        "checkpoints": [
+            {
+                "steps": 999970,
+                "file_path": "results\\ppo\\HoldBallBehaviour\\HoldBallBehaviour-999970.onnx",
+                "reward": -245.61626201727228,
+                "creation_time": 1624810474.8597982
+            },
+            {
+                "steps": 1499943,
+                "file_path": "results\\ppo\\HoldBallBehaviour\\HoldBallBehaviour-1499943.onnx",
+                "reward": -389.1358009708738,
+                "creation_time": 1624811084.3220222
+            },
+            {
+                "steps": 1999990,
+                "file_path": "results\\ppo\\HoldBallBehaviour\\HoldBallBehaviour-1999990.onnx",
+                "reward": -3321.8831122194515,
+                "creation_time": 1624811769.5447736
+            },
+            {
+                "steps": 2499999,
+                "file_path": "results\\ppo\\HoldBallBehaviour\\HoldBallBehaviour-2499999.onnx",
+                "reward": -14185.084743392532,
+                "creation_time": 1624812639.8446362
+            },
+            {
+                "steps": 2721799,
+                "file_path": "results\\ppo\\HoldBallBehaviour\\HoldBallBehaviour-2721799.onnx",
+                "reward": -19654.363286867203,
+                "creation_time": 1624813074.5601459
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2721799,
+            "file_path": "results\\ppo\\HoldBallBehaviour.onnx",
+            "reward": -19654.363286867203,
+            "creation_time": 1624813074.5601459
+        }
+    },
+    "HoldBall": {
+        "checkpoints": [
+            {
+                "steps": 113418,
+                "file_path": "results\\ppo\\HoldBall\\HoldBall-113418.onnx",
+                "reward": -1952.625,
+                "creation_time": 1624813074.720177
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 113418,
+            "file_path": "results\\ppo\\HoldBall.onnx",
+            "reward": -1952.625,
+            "creation_time": 1624813074.720177
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
