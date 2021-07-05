@@ -1,4 +1,4 @@
-# Cozmo simulation project by Ferry Liekens and Frank Ladage
+# Cozmo simulation
 <p>This project consist of a Unity project using ml-agent to simulate the "Cozmo" Robot in a virtual environment. It uses reinforcement learning to train the model to improve. The task is simple: The robot is inside a box, a ball gets pushed towards the back wall and the robot needs to stop the ball from hitting it. Each time it succeeds it gets a point and when it fails it loses one. Note that the model is not trained properly yet so performance is pretty bad.
 
 
